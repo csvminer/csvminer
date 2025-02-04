@@ -29,3 +29,7 @@ Mi nombre es <b>Eduardo Mendieta</b> y actualmente estoy en proceso de adquirir 
 
 <br>
 <div align="center"><i>csvminer - 2025</i></div>
+
+<!-- ![MQ](https://github.com/user-attachments/assets/d3e7ed15-b002-4916-8f71-f5507ff47cdb)
+![tec](https://github.com/user-attachments/assets/4d4f3899-209c-4595-a363-3eb3dc4b57f3)
+![4AnalyzeYou](https://github.com/user-attachments/assets/4cbad6b6-6a39-4ada-a5ba-e2ae6c389607) -->
