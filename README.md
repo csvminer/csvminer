@@ -1,5 +1,6 @@
 ## Bienvenidos!! 👋
-Hola a todos, actualmente estoy en proceso de adquirir las tecnologías necesarias para convertirme en analista de datos. Mi objetivo es integrarme en el mundo tecnológico y empresarial. Este espacio sirve como mi portafolio de proyectos personales, donde espero compartir mis aprendizajes a través de diversas iniciativas con la comunidad.
+<!--Hola a todos, actualmente estoy en proceso de adquirir las tecnologías necesarias para convertirme en analista de datos. Mi objetivo es integrarme en el mundo tecnológico y empresarial. Este espacio sirve como mi portafolio de proyectos personales, donde espero compartir mis aprendizajes a través de diversas iniciativas con la comunidad. -->
+
 
 ### 👥 Redes:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csvminer/)
