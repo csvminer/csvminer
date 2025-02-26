@@ -1,5 +1,5 @@
 ## Bienvenidos!! 👋
-Hola a todos, mi nombre es Eduardo Mendieta y actualmente estoy en proceso de adquirir las tecnologías necesarias para convertirme en analista de datos. Mi objetivo es integrarme en el mundo tecnológico y empresarial. Este espacio sirve como mi portafolio de proyectos personales, donde espero compartir mis aprendizajes a través de diversas iniciativas con la comunidad.
+Hola a todos, mi nombre es Eduardo y actualmente estoy en proceso de adquirir las tecnologías necesarias para convertirme en analista de datos. Mi objetivo es integrarme en el mundo tecnológico y empresarial. Este espacio sirve como mi portafolio de proyectos personales, donde espero compartir mis aprendizajes a través de diversas iniciativas con la comunidad.
 
 
 ### 👥 Redes:
