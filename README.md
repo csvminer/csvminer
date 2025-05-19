@@ -2,10 +2,10 @@
 Hola a todos, mi nombre es <b>Eduardo</b> y actualmente estoy en proceso de adquirir las tecnologías necesarias para convertirme en analista de datos. Mi objetivo es integrarme en el mundo tecnológico y empresarial. Este espacio sirve como mi portafolio de proyectos personales, donde espero compartir mis aprendizajes a través de diversas iniciativas con la comunidad.
 
 
-### 👥 Redes:
+<!--### 👥 Redes:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/csvminer/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/csvminer) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61572460088469)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61572460088469) -->
 
 
 ### ✍️ Aprendiendo:
